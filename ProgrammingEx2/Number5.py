@@ -1,6 +1,6 @@
 def check_if_vowel(character, list1):
     for item in list1:
-        if character == list1:
+        if character == item:
             return True
         return False
 
